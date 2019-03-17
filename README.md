@@ -2,7 +2,7 @@
 
 Java Web Application
 
-Members:
+Members:<br>
 Erika Kathleen Gilo <br>
 Jamaeca Navarrete <br>
 Dakyung Lee <br>

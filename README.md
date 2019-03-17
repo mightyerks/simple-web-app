@@ -3,8 +3,8 @@
 Java Web Application
 
 Members:
-Erika Kathleen Gilo
-Jamaeca Navarrete
-Dakyung Lee
-Allissa Dela Cruz
-Minji Kim
+Erika Kathleen Gilo <br>
+Jamaeca Navarrete <br>
+Dakyung Lee <br>
+Allissa Dela Cruz <br>
+Minji Kim 
